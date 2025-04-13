@@ -52,15 +52,20 @@ This repository grounds the implementation of the **OPTIMUS** research logic, si
 Refer to *IRS.pdf*
 See also [optimus-software.onrender.com](https://optimus-software.onrender.com) for theory + tools.
 
+## 👤 About the Author
+
+Mohamed Ben Achour
+	•	PhD candidate in Legal Theory
+	•	Developed OPTIMUS: A Computational Model of the Rule of Law
+	•	Background in law, philosophy, and institutional simulation modeling
+
+📧 Contact: mbenachour24@gmail.com
+🔗 LinkedIn : https://www.linkedin.com/in/mohamed-ben-achour-58b571131/
+
 ## 📚 License
 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
 
 > You are free to share and adapt the code, with attribution, but not for commercial use.
-
-## 🚜 Future Work
-- Integrate external norm generation via a decentralized network
-- Add cross-agent negotiation mechanisms
-- Explore convergence to S\* under varying institutional perturbations
 
 ---
 
