@@ -49,7 +49,8 @@ This repository grounds the implementation of the **OPTIMUS** research logic, si
 
 ## 🎓 Research Grounding
 
-See [optimus-software.onrender.com](https://optimus-software.onrender.com) for theory + tools.
+Refer to *IRS.pdf*
+See also [optimus-software.onrender.com](https://optimus-software.onrender.com) for theory + tools.
 
 ## 📚 License
 **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
