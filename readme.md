@@ -1,6 +1,6 @@
 # 🌀 IRS-Institutional Recursive Simulator (OPTIMUS Engine)
 
-> A long-run recursive simulation of institutional evolution and structural coupling — blending algorithmic normativity with computational epistemology.
+> A recursive simulation of institutional evolution and structural coupling — blending algorithmic normativity with computational epistemology.
 
 ## 📘 Overview
 
